@@ -1,0 +1,7 @@
+C:\Users\Chris\source\repos\RedditCrawler\RedditCrawler\bin\Release\RedditCrawler.exe.config
+C:\Users\Chris\source\repos\RedditCrawler\RedditCrawler\bin\Release\RedditCrawler.exe
+C:\Users\Chris\source\repos\RedditCrawler\RedditCrawler\bin\Release\RedditCrawler.pdb
+C:\Users\Chris\source\repos\RedditCrawler\RedditCrawler\obj\Release\RedditCrawler.csprojAssemblyReference.cache
+C:\Users\Chris\source\repos\RedditCrawler\RedditCrawler\obj\Release\RedditCrawler.csproj.CoreCompileInputs.cache
+C:\Users\Chris\source\repos\RedditCrawler\RedditCrawler\obj\Release\RedditCrawler.exe
+C:\Users\Chris\source\repos\RedditCrawler\RedditCrawler\obj\Release\RedditCrawler.pdb
