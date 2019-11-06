@@ -1,0 +1,7 @@
+C:\Users\Chris\source\repos\LargeWHT\LargeWHT\bin\Release\LargeWHT.exe.config
+C:\Users\Chris\source\repos\LargeWHT\LargeWHT\bin\Release\LargeWHT.exe
+C:\Users\Chris\source\repos\LargeWHT\LargeWHT\bin\Release\LargeWHT.pdb
+C:\Users\Chris\source\repos\LargeWHT\LargeWHT\obj\Release\LargeWHT.csproj.CoreCompileInputs.cache
+C:\Users\Chris\source\repos\LargeWHT\LargeWHT\obj\Release\LargeWHT.exe
+C:\Users\Chris\source\repos\LargeWHT\LargeWHT\obj\Release\LargeWHT.pdb
+C:\Users\Chris\source\repos\LargeWHT\LargeWHT\obj\Release\LargeWHT.csprojAssemblyReference.cache
