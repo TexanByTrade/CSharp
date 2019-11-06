@@ -4,4 +4,4 @@ Brainf*** (unfortunately I can't change the offensive name) is a simple programm
 
 Call BF_Interpreter.exe from the command line with at least one argument specifying the path to the bf code. Pass true as the 3rd argument to dump the sanitized program to console.
 
-> BF_Interpreter.exe <filepath> [input string] [dump (T/F)]
+> BF_Interpreter.exe \<filepath\> [input string] [dump (T/F)]
