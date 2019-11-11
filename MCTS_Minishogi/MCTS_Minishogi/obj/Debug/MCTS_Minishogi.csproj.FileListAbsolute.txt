@@ -1,0 +1,7 @@
+C:\Users\Chris\source\repos\MCTS_Minishogi\MCTS_Minishogi\bin\Debug\MCTS_Minishogi.exe.config
+C:\Users\Chris\source\repos\MCTS_Minishogi\MCTS_Minishogi\bin\Debug\MCTS_Minishogi.exe
+C:\Users\Chris\source\repos\MCTS_Minishogi\MCTS_Minishogi\bin\Debug\MCTS_Minishogi.pdb
+C:\Users\Chris\source\repos\MCTS_Minishogi\MCTS_Minishogi\obj\Debug\MCTS_Minishogi.csprojAssemblyReference.cache
+C:\Users\Chris\source\repos\MCTS_Minishogi\MCTS_Minishogi\obj\Debug\MCTS_Minishogi.csproj.CoreCompileInputs.cache
+C:\Users\Chris\source\repos\MCTS_Minishogi\MCTS_Minishogi\obj\Debug\MCTS_Minishogi.exe
+C:\Users\Chris\source\repos\MCTS_Minishogi\MCTS_Minishogi\obj\Debug\MCTS_Minishogi.pdb
